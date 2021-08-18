@@ -1,0 +1,2 @@
+Hello!
+This is test text for Nest.net Github Semina!
